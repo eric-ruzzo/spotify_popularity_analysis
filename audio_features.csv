@@ -49,6 +49,11 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 6ZRuF2n1CQxyxxAAWsKJOy,Kehlani,Nights Like This (feat. Ty Dolla $ign),0.61,0.725,-5.131,0.291,146.163
 2hloaUoRonYssMuqLCBLTX,Ariana Grande,bloodline,0.758,0.665,-5.188,0.643,151.976
 5BfMJ6iytQnu1r7iiCYSXe,Khalid,Intro,0.213,0.414,-9.725,0.0553,79.556
+39LmTF9RgyakzSYX8txrow,Ariana Grande,imagine,0.729,0.475,-4.985,0.371,62.52
+0HEckRWFSknIupbGzavk5d,Khalid,Hundred,0.772,0.483,-10.06,0.479,120.005
+1E6DEDWDKHoOW0fcFuDghV,Khalid,Don't Pretend,0.697,0.551,-8.833,0.219,89.0
+6fOOKqQWcSy33ApU1wqkkW,Khalid,Paradise,0.581,0.452,-9.558,0.523,75.046
+1NgCWYuBLfqBDA3b8MgSVU,Khalid,Twenty One,0.776,0.445,-8.574,0.405,109.981
 2MJdgSby3DtSS7bUJx2cly,Offset,Red Room,0.936,0.559,-8.591,0.517,112.339
 25F6MWrnFBCXVnpN4n76EK,Logic,Keanu Reeves,0.71,0.888,-6.457,0.816,170.193
 339Y993TrFyWyO438be0RY,Khalid,Better,0.692,0.552,-9.543,0.15,98.028
@@ -77,9 +82,11 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 4dAMdQ6g4kGmnc1MDHsg77,NLE Choppa,Shotta Flow,0.888,0.43,-6.728,0.45,120.088
 4dTiQezDWmEOWcdCbWVWMp,ScHoolboy Q,Numb Numb Juice,0.886,0.47,-7.756,0.184,156.997
 3LgWsmilsrWXiPYQFRD0T7,Billie Eilish,goodbye,0.152,0.149,-21.965,0.0484,55.492
+4T652DlATVHe0jdLKaN3Bw,Ariana Grande,in my head,0.662,0.6,-6.402,0.331,134.979
 7DHApOHsIFo7EyfieArYGE,P!nk,Walk Me Home,0.652,0.453,-6.119,0.432,88.038
 3WRIaWsws011vHMd9uzPjG,Future,First Off (feat. Travis Scott),0.734,0.683,-6.105,0.445,162.038
 0fcq51a3gOI6gPvzc0YLsk,Post Malone,Wow. - Remix,0.797,0.64,-6.272,0.486,100.002
+7b4aLX67OsLSUbYIoBvdmI,Khalid,Talk REMIX,0.9,0.426,-7.498,0.499,135.992
 2Jh3UqxnHJMyzMzku4uOtE,Juice WRLD,Feeling,0.712,0.515,-6.004,0.563,160.0
 73a7QCttEiEy9ZVKw8GrXe,Ariana Grande,MONOPOLY (with Victoria Monét),0.899,0.523,-8.527,0.639,143.98
 2BSbCCbaSCzkOEZa6N5901,Juice WRLD,Flaws And Sins,0.709,0.662,-4.55,0.439,150.046
@@ -92,13 +99,6 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 3BXXkwyhsHM0EPApHMhQC5,Gunna,Speed It Up,0.912,0.587,-7.395,0.435,143.027
 6PRh0ilIMEP1xlUHqalnkD,Yo Gotti,Put a Date On It (feat. Lil Baby),0.835,0.659,-5.696,0.579,129.93
 31UjYv5vLsDkzchJOtUMtW,Maluma,HP,0.837,0.791,-3.157,0.618,91.98
-3jq1RpStaB1YGyN3rRZGca,XXXTENTACION,Sauce!,0.68,0.313,-13.672,0.405,135.034
-0hCHNYL8ApQCGNwJrYN1FY,Lil Skies,Bad Girls (feat. Gucci Mane),0.771,0.761,-4.727,0.277,131.01
-3QmolSZqjjLksTUvZJ6pPS,Jonas Brothers,Cool,0.65,0.619,-5.495,0.657,157.967
-4qQwGRtGT7l6ckQtdPEFd4,Florida Georgia Line,Talk You Out Of It,0.651,0.708,-4.791,0.558,119.964
-2gwkD6igEhQbDQegRCcdoB,DaBaby,Suge,0.876,0.662,-6.482,0.844,75.445
-4zxpssj8DyrfZcEUSUiNxG,Juice WRLD,Ring Ring (with Rvssian feat. Clever),0.581,0.673,-4.421,0.621,160.073
-0uUNN1nSoUx1A4fkDCWDQ7,Ava Max,So Am I,0.684,0.677,-4.034,0.595,130.141
 3jq1RpStaB1YGyN3rRZGca,XXXTENTACION,Sauce!,0.68,0.313,-13.672,0.405,135.034
 0hCHNYL8ApQCGNwJrYN1FY,Lil Skies,Bad Girls (feat. Gucci Mane),0.771,0.761,-4.727,0.277,131.01
 3QmolSZqjjLksTUvZJ6pPS,Jonas Brothers,Cool,0.65,0.619,-5.495,0.657,157.967
@@ -264,7 +264,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 0UvBmQOhu4DVXJtdzGc5eV,Trey Songz,Chi Chi (feat. Chris Brown),0.744,0.549,-6.041,0.277,110.004
 19fpxF81Le25x726VVFzvx,Sia,Under the Milky Way,0.5,0.59,-9.381,0.405,140.905
 4XEyiHcye8aWIf8YJJH46b,Sia,Sweet Potato,0.562,0.573,-8.159,0.335,122.04
-5tsvmtDqlLCZD6d4hu9YCU,Sia,Breathe Me,None,None,None,None,None
+5tsvmtDqlLCZD6d4hu9YCU,Sia,Breathe Me,0.0,0.0,0.0,0.0,0.0
 14PWHDV87nXiSuClZDsEYC,Gunna,Richard Millie Plain,0.744,0.674,-7.518,0.316,134.021
 5kXDF4OmM5COyeo6z97nEk,Vampire Weekend,Harmony Hall,0.653,0.76,-6.086,0.6,98.008
 50RKxNk3dolYxqahwo37aE,Sia,Cheap Thrills,0.516,0.694,-5.624,0.733,179.862
@@ -479,7 +479,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 1qlCjzyib3wt99XKcTeQkF,Steve Aoki,Play It Cool,0.812,0.805,-3.83,0.568,119.958
 2xB64x7pRS8Qa9uuZktOnA,Bhad Bhabie,Babyface Savage (feat. Tory Lanez),0.907,0.557,-6.882,0.425,139.922
 1PfUKiMDKIlPEF9FfdJawc,Lana Del Rey,hope is a dangerous thing for a woman like me to have - but I have it,0.492,0.144,-10.125,0.274,164.839
-4mwt2RPKqghlMnUmebcOxc,Sean Paul,Kramp Up,None,None,None,None,None
+4mwt2RPKqghlMnUmebcOxc,Sean Paul,Kramp Up,0.0,0.0,0.0,0.0,0.0
 5whINh6eBXl8JgI9Cv4KPK,Randy Houser,Our Hearts (feat. Lucie Silvas),0.651,0.704,-6.458,0.417,136.001
 1wkHhcUnVOMhLtA79dQaQx,Julia Michaels,Into You,0.692,0.471,-7.124,0.827,158.004
 4bE3cBcwAe7T5SklvbkiYZ,I Prevail,Breaking Down,0.503,0.568,-7.182,0.0705,126.935
@@ -520,7 +520,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 4xEHlCgoKd4RdrS79OPn9y,Hozier,As It Was,0.398,0.154,-11.395,0.155,173.589
 4L9l5x0WuzNtyEBeqzvgPE,Maggie Rogers,Overnight,0.479,0.667,-5.429,0.734,177.958
 5cE201rNvIkryS8N1dJ5nR,Carly Rae Jepsen,Now That I Found You,0.611,0.737,-5.154,0.574,124.169
-5eKWFYDP72IqdzmZLyu4d4,Intentional Vibes,Intention,0,0.0465,-27.899,0,0
+5eKWFYDP72IqdzmZLyu4d4,Intentional Vibes,Intention,0.0,0.0465,-27.899,0.0,0.0
 1CUO78HbhOdBUdhoCo7zO5,Florida Georgia Line,Tip It Back,0.446,0.949,-3.342,0.85,163.983
 2pZ8egejfQJ90HekAPX6r0,Florida Georgia Line,Life Is A Honeymoon,0.627,0.856,-4.727,0.78,145.009
 7HNhyjMiTMDDDJixTS0yn0,Ugly God,Hello (feat. Lil Pump),0.926,0.519,-3.723,0.361,142.096
@@ -701,7 +701,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 5EpR6BqAnwR9PPl6sIrzGy,Cheat Codes,Who's Got Your Love,0.704,0.888,-2.872,0.531,125.027
 1PEbZAKVXlrABYuzZpBypd,Naturally Recurring,Stage Three,0.158,0.0529,-30.9,0.0399,133.652
 1sm2qd1FVq2EzPoqXVNLod,Lamb & Mountain,Core,0.258,0.142,-19.058,0.0324,112.677
-5oUnVKzkdNTaLtn4EnJjEP,Justin Timberlake,Mirrors - Radio Edit,None,None,None,None,None
+5oUnVKzkdNTaLtn4EnJjEP,Justin Timberlake,Mirrors - Radio Edit,0.0,0.0,0.0,0.0,0.0
 2s8w7n22U328L6Pdfwdodg,Logic,I Love You Forever,0.467,0.658,-6.145,0.245,147.903
 6uIpf2e5PrB0ZMufi0AWpL,DaBaby,Joggers (feat. Stunna 4 Vegas),0.772,0.659,-5.388,0.815,143.716
 0F7FlaQBiyNkV8iakTocsW,Future,Stick to the Models,0.813,0.543,-6.555,0.165,137.986
@@ -750,7 +750,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 05u5qeM36BBjaF9lsOyar2,Joyner Lucas,Just Let Go,0.645,0.698,-6.525,0.5,139.867
 4XzgjxGKqULifVf7mnDIQK,Olivia O'Brien,Love Myself,0.653,0.621,-5.721,0.466,100.006
 6oGymcECsbc3HeD17rLPLR,Maren Morris,RSVP,0.687,0.575,-7.243,0.372,124.976
-3TEv5EF30GdCGKUdBaot7w,Labrinth,Let the Sun Shine,None,None,None,None,None
+3TEv5EF30GdCGKUdBaot7w,Labrinth,Let the Sun Shine,0.0,0.0,0.0,0.0,0.0
 5KgjRZKraoTkHAUONmVFo1,MARINA,Orange Trees,0.731,0.66,-6.892,0.547,100.988
 65wtqxbrddRQEArvqfihed,MARINA,To Be Human,0.671,0.446,-4.727,0.274,96.022
 1pGcfOz4p1Ds35ICL0lX5k,NAV,Dior Runners,0.856,0.796,-5.322,0.448,162.053
@@ -1295,7 +1295,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 0FRGjKlb2Nfxzp9Cjv9Cw6,Johann Sebastian Bach,"Cello Suite No. 3 in C Major, BWV 1009: V. Bourée 1 - Bourée 2",0.288,0.0387,-24.584,0.4,68.547
 0FhU3excJFVvpeL7f9ksvM,Johann Sebastian Bach,"Toccata and Fugue in D Minor, BWV 565",0.0665,0.181,-17.704,0.112,67.999
 0FkYF9cQD0NqJ0MW2WxyAn,Johann Sebastian Bach,"Herz und Mund und Tat und Leben, BWV 147: X. Jesu bleibet meine Freude (Jesu, Joy of Man's Desiring)",0.108,0.321,-12.706,0.197,69.49
-0IIlbQgKE9ZYKsVvAzoU8p,Johann Sebastian Bach,"Suite in G Minor, BWV 995: III. Courante",None,None,None,None,None
+0IIlbQgKE9ZYKsVvAzoU8p,Johann Sebastian Bach,"Suite in G Minor, BWV 995: III. Courante",0.0,0.0,0.0,0.0,0.0
 0JeNDiPuCE8YKgnvl5TaNP,Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",0.178,0.206,-18.407,0.0954,71.485
 0L6g34bvDJbER7QV66ys48,Johann Sebastian Bach,"Concerto for 2 Violins in D Minor, BWV 1043: II. Largo, ma non tanto",0.096,0.0618,-23.259,0.0933,86.957
 0MXwDnnoxp34k9f2cHS7So,Johann Sebastian Bach,"Toccata and Fugue in D Minor, BWV 565",0.0665,0.181,-17.704,0.112,67.999
@@ -1303,10 +1303,10 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 0dT4MPptmKVAhDZgzTEUCB,Johann Sebastian Bach,"Brandenburg Concerto No. 3 in G Major, BWV 1048: III. Allegro",0.612,0.372,-14.594,0.804,97.573
 0eEEsbjSzpQu7bSH6OsIKA,Johann Sebastian Bach,"Wir danken dir, Gott, wir danken dir, BWV 29: I. Sinfonia",0.224,0.296,-19.878,0.16,111.965
 0j4pRgbUmYXBTiWff0zo6d,Johann Sebastian Bach,"Was mir behagt, ist nur die muntre Jagd, BWV 208: IX. Schafe können sicher weiden (Sheep May Safely Graze)",0.218,0.0864,-24.102,0.11,87.765
-0oND2VoPqi9l7y5o7CDQug,Johann Sebastian Bach,"Violin Concerto in G Minor, BWV 1056R: II. Largo",None,None,None,None,None
+0oND2VoPqi9l7y5o7CDQug,Johann Sebastian Bach,"Violin Concerto in G Minor, BWV 1056R: II. Largo",0.0,0.0,0.0,0.0,0.0
 0xv1pdrX7U5xXalnv0HuWN,Johann Sebastian Bach,"Mass in B Minor, BWV 232: XXV. Osanna in excelsis",0.304,0.335,-15.75,0.818,179.312
 127Lo2jBvHut2kzK5emxJT,Johann Sebastian Bach,"Brandenburg Concerto No. 4 in G Major, BWV 1049: I. Allegro",0.467,0.158,-23.469,0.647,93.906
-18nEXPxYKROufO6z3PIVqW,Johann Sebastian Bach,"Suite in G Minor, BWV 995: VI. Gigue",None,None,None,None,None
+18nEXPxYKROufO6z3PIVqW,Johann Sebastian Bach,"Suite in G Minor, BWV 995: VI. Gigue",0.0,0.0,0.0,0.0,0.0
 1AC7tkrYEIQknsCZKhDlyC,Johann Sebastian Bach,"Flute Sonata in E-Flat Major, BWV 1031: III. Allegro",0.588,0.299,-20.221,0.878,93.01
 1KHvj86IEgKHOtZCMpKfI6,Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",0.36,0.225,-20.617,0.573,90.812
 1N1PWtlw0KBPwKDP8iMpqb,Johann Sebastian Bach,"Brandenburg Concerto No. 6 in B-Flat Major, BWV 1051: II. Adagio ma non tanto",0.0683,0.0246,-29.321,0.0649,71.194
@@ -1338,8 +1338,8 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 2u6IlVEy9lZOj8wFfYgCcb,Johann Sebastian Bach,"Brandenburg Concerto No. 6 in B-Flat Major, BWV 1051: I. Allegro",0.283,0.128,-20.557,0.517,147.318
 2vkUvzntJdDlUIRHbPD8vC,Johann Sebastian Bach,"Mass in B Minor, BWV 232: XVI. Credo: Et incarnatus est",0.074,0.0382,-27.792,0.0333,80.07
 318BoBOoU8UgVlZjH60TXL,Johann Sebastian Bach,"Magnificat in D Major, BWV 243: XII. Gloria",0.353,0.303,-15.976,0.113,102.284
-33g7XJPNqLHBEdsJCCClLh,Johann Sebastian Bach,"Prelude and Fugue in E-Flat Minor, BWV 853: I. Prelude",None,None,None,None,None
-36P3M6TylLRCUQqVfEU4a9,Johann Sebastian Bach,"Suite No. 1 in E Minor, BWV 996: V. Bourrée",None,None,None,None,None
+33g7XJPNqLHBEdsJCCClLh,Johann Sebastian Bach,"Prelude and Fugue in E-Flat Minor, BWV 853: I. Prelude",0.0,0.0,0.0,0.0,0.0
+36P3M6TylLRCUQqVfEU4a9,Johann Sebastian Bach,"Suite No. 1 in E Minor, BWV 996: V. Bourrée",0.0,0.0,0.0,0.0,0.0
 38VXyyTalZH1rNmULn4VUp,Johann Sebastian Bach,"Prelude in C Minor for Solo Lute, BWV 999",0.272,0.17,-29.536,0.705,143.302
 3B5MwTOPkOwNRUNjzmtolR,Johann Sebastian Bach,"Prelude and Fugue in A Minor, BWV 543",0.0934,0.246,-18.684,0.233,166.421
 3BgwHnBMMgCUB5zjl0GH0y,Johann Sebastian Bach,"Fugue in G Minor, BWV 1000",0.439,0.117,-21.774,0.465,140.341
@@ -1350,7 +1350,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 3e7L716dcVK9LnsZ8affgw,Johann Sebastian Bach,"Christmas Oratorio, BWV 248: And There Where Shepherds",0.198,0.0143,-34.319,0.173,105.632
 3iBCdaDnlPfyGWB11i6aEs,Johann Sebastian Bach,"Mass in B Minor, BWV 232: XXVII. Dona nobis pacem",0.171,0.196,-15.807,0.0611,139.182
 3iZfxNgHr5cQuJePScpBt5,Johann Sebastian Bach,"Toccata and Fugue in D Minor, BWV 565",0.0665,0.181,-17.704,0.112,67.999
-3lj5QAqtAm7VjxMU2SLKzE,Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",None,None,None,None,None
+3lj5QAqtAm7VjxMU2SLKzE,Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",0.0,0.0,0.0,0.0,0.0
 3yAsAa5VktQQNyLFpGwVHA,Johann Sebastian Bach,"Prelude and Fugue in C Major, BWV 846",0.208,0.456,-16.611,0.222,136.57
 48nEP6tE7bDWyHhjqP5LGz,Johann Sebastian Bach,"Erschallet, ihr Lieder, BWV 172: No. 6, Chorale. Von Gott kommt mir ein Freudenschein (Live)",0.195,0.376,-15.001,0.513,78.264
 4RQHBZj3uCexWdHMSOPRgh,Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",0.172,0.0244,-31.582,0.155,113.942
@@ -1380,15 +1380,15 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 5Xj46UUyeJ6qlm1TPewTyR,Johann Sebastian Bach,"Partita in A Minor, BWV 1013: II. Corrente",0.398,0.0159,-31.622,0.795,112.119
 5YULphhchIKt50GFc2wLpQ,Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",0.178,0.206,-18.407,0.0954,71.485
 5eFqA0udKGoGw8YnI81Sxw,Johann Sebastian Bach,"Magnificat in D Major, BWV 243: IV. Chorus: Omnes generationes",0.543,0.612,-16.155,0.595,102.553
-5fRQDkDquGapOrstm7SMyx,Johann Sebastian Bach,"Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",None,None,None,None,None
+5fRQDkDquGapOrstm7SMyx,Johann Sebastian Bach,"Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",0.0,0.0,0.0,0.0,0.0
 5fUg9x4yZHE7nqHWUXC3zb,Johann Sebastian Bach,"Mass in B Minor, BWV 232: XVIII. Credo: Et resurrexit",0.535,0.35,-16.811,0.592,104.72
 5fv0IE6IHLXbQO1c0acw30,Johann Sebastian Bach,"Concerto for 2 Violins in D Minor, BWV 1043: I. Vivace",0.609,0.289,-15.815,0.767,100.487
 5h9nbgy2oYNQGmuT13Vm63,Johann Sebastian Bach,"Brandenburg Concerto No. 6 in B-Flat Major, BWV 1051: II. Adagio ma non tanto",0.0683,0.0246,-29.321,0.0649,71.194
 5jOr77sW8CyGnmWXt8JH1V,Johann Sebastian Bach,"Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie",0.576,0.41,-13.963,0.669,135.833
-5q392Zw4St1LXzmHVkTNCj,Johann Sebastian Bach,"Suite in G Minor, BWV 995: IV. Sarabande",None,None,None,None,None
+5q392Zw4St1LXzmHVkTNCj,Johann Sebastian Bach,"Suite in G Minor, BWV 995: IV. Sarabande",0.0,0.0,0.0,0.0,0.0
 5qnGA6VNWr7Y5kQAsyZemg,Johann Sebastian Bach,"Fantasia and Fugue in A Minor, BWV 904: II. Fuga",0.222,0.274,-21.606,0.675,86.107
 5qwzRAiZBKNtdsKbTvybni,Johann Sebastian Bach,"Mass in B Minor, BWV 232: XXII. Sanctus",0.147,0.306,-15.384,0.22,85.117
-5tvR4Ug7KmjakSdBQuwzLq,Johann Sebastian Bach,"Goldberg-Variationen, BWV 988: Var. 1",None,None,None,None,None
+5tvR4Ug7KmjakSdBQuwzLq,Johann Sebastian Bach,"Goldberg-Variationen, BWV 988: Var. 1",0.0,0.0,0.0,0.0,0.0
 5wjWPiLS4MIGaOECBdZMQ5,Johann Sebastian Bach,"Flute Sonata in E-Flat Major, BWV 1031: I. Allegro moderato",0.477,0.178,-24.584,0.831,81.58
 5xMfCJGMQtoE7zYNyrpn8l,Johann Sebastian Bach,"Goldberg Variations, BWV 988: I. Aria",0.34,0.183,-17.851,0.473,100.706
 5xgBTQ3akV6btuBDigQN3V,Johann Sebastian Bach,"Flute Sonata in E Major, BWV 1035: II. Allegro",0.614,0.214,-17.667,0.962,105.014
@@ -1413,8 +1413,8 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 6nk8wASXh0OaMbdNjYFQVb,Johann Sebastian Bach,"Mass in B Minor, BWV 232: V. Gloria: Et in terra pax",0.209,0.185,-18.674,0.143,125.041
 6oHPZQBItiWp0ZzboafMJ8,Johann Sebastian Bach,"Violin Concerto No. 2 in E Major, BWV 1042: I. Allegro",0.428,0.296,-15.42,0.668,94.642
 6pW1H42JNBJKnw0ZvCt18E,Johann Sebastian Bach,"Wedding Cantata, BWV 202: IX. Sehet in Zufriedenheit",0.409,0.0605,-25.543,0.209,84.257
-6rmeoQgyqVxNiCrdsVLSxK,Johann Sebastian Bach,"Suite in G Minor, BWV 995: II. Allemande",None,None,None,None,None
-6w44IhpxHp5u990coRVoib,Johann Sebastian Bach,"Fugue in G Minor, BWV 1000",None,None,None,None,None
+6rmeoQgyqVxNiCrdsVLSxK,Johann Sebastian Bach,"Suite in G Minor, BWV 995: II. Allemande",0.0,0.0,0.0,0.0,0.0
+6w44IhpxHp5u990coRVoib,Johann Sebastian Bach,"Fugue in G Minor, BWV 1000",0.0,0.0,0.0,0.0,0.0
 6wnwEoID3uADTQHIyBrnPM,Johann Sebastian Bach,"Partita in A Minor, BWV 1013: IV. Bourrée anglaise",0.454,0.008,-31.876,0.769,114.836
 6zjHJqrEXAZpCb5WhuBqHZ,Johann Sebastian Bach,"Mass in B Minor, BWV 232: XXI. Credo: Et exspecto",0.455,0.471,-14.72,0.612,106.328
 70azrdwHxQ3Wx1R5TW1FRu,Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",0.36,0.225,-20.617,0.573,90.812
@@ -1424,13 +1424,13 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 76ndCO86DoiUDVVFnxV01x,Johann Sebastian Bach,"Partita in A Minor, BWV 1013: III. Sarabande",0.248,0.00298,-32.05,0.47,68.582
 78RbBu8qWb7eXesPDLCHpY,Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",0.178,0.206,-18.407,0.0954,71.485
 79J2Wk3VUoSNFHlLmQoI0X,Johann Sebastian Bach,"Sei Lob und Ehr dem höchsten Gut, BWV 117: No. 7, Ich will dich all mein Leben lang (Live)",0.231,0.0825,-21.183,0.256,138.245
-79maVa4cNTACwaVhi5zui0,Johann Sebastian Bach,"Suite in G Minor, BWV 995: I. Prelude",None,None,None,None,None
+79maVa4cNTACwaVhi5zui0,Johann Sebastian Bach,"Suite in G Minor, BWV 995: I. Prelude",0.0,0.0,0.0,0.0,0.0
 7B1OuPASho81QB0qdnUQ6N,Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",0.36,0.225,-20.617,0.573,90.812
 7FFlc1U3G9EAPRtOelda7o,Johann Sebastian Bach,"Violin Concerto in D Minor, BWV 1052R: I. Allegro",0.506,0.327,-16.489,0.606,102.45
 7GcuDL7JEs9dtHaEcPVh33,Johann Sebastian Bach,"Violin Concerto No. 2 in E Major, BWV. 1042: II. Adagio",0.148,0.0944,-22.493,0.0955,98.529
 7GvBiX7XZKWjfxIlwAgA9p,Johann Sebastian Bach,"English Suite No. 5 in E Minor, BWV 810: I. Prelude",0.293,0.466,-19.497,0.962,87.079
 7H10JyQr3gTTXOTs9kFedV,Johann Sebastian Bach,"Cello Suite No. 6 in D Major, BWV1012: 2. Allemande (Arr. Slava Grigoryan)",0.432,0.0344,-27.582,0.648,92.194
-7Iwt45N5bNPGtjpKCykTCu,Johann Sebastian Bach,"Suite in G Minor, BWV 995: V. Gavotte I - Gavotte II en Rondeau",None,None,None,None,None
+7Iwt45N5bNPGtjpKCykTCu,Johann Sebastian Bach,"Suite in G Minor, BWV 995: V. Gavotte I - Gavotte II en Rondeau",0.0,0.0,0.0,0.0,0.0
 7JFPkFTxWF06CzEl7v5vCH,Johann Sebastian Bach,"Harpsichord Concerto No. 5 in F Minor, BWV 1056: II. Arioso: Largo",0.435,0.0294,-30.494,0.285,63.399
 7KrLbfFOGDTLiU5t7Z8e9h,Johann Sebastian Bach,"Concerto for Violin and Oboe in C Minor, BWV 1060R: II. Adagio",0.174,0.13,-21.947,0.173,82.497
 7a8U5I5pNjRTPAj5ntAfT7,Johann Sebastian Bach,"Violin Sonata No. 1 in G Minor, BWV 1001: IV. Presto",0.288,0.258,-14.885,0.388,101.647
@@ -1449,20 +1449,20 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 6JEqJbL1brIBySspoKU2CL,Maggie Lindemann,Friends Go,0.441,0.66,-3.335,0.765,177.718
 2lgHQo1ZNWah5r4YHasvWj,Luxley,Take a Chance,0.718,0.942,-2.219,0.229,110.995
 0oZLrSowLY70rA33wJqTuk,Lil Tjay,Pa$to,0.744,0.827,-3.714,0.713,125.062
-0PoNpBcunIOHeCtheBODAX,Johann Sebastian Bach,"Bach, JS: Brandenburg Concerto No. 5 in D Major, BWV 1050: III. Allegro",None,None,None,None,None
-0tEyKV5U7yLD5eKkBuT8vO,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 2 in D Minor, BWV 1004: V. Chaconne",None,None,None,None,None
-0wLPlyzRx6JnIoMN5SMGkq,Johann Sebastian Bach,"Bach, JS: Violin Sonata No.1 in G Minor, BWV 1001: II. Fuga (Allegro)",None,None,None,None,None
-1MNe1zwwmyTs6ZJBvTr9yS,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 2 in E Major, BWV 1042: III. Allegro assai",None,None,None,None,None
-1WNcrjT7WwF39OsnWS6kKi,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro",None,None,None,None,None
-1lQQ6vqKimR1fDKeTb9SfE,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",None,None,None,None,None
-2pDXV245WIrp7xhIGItyOy,Johann Sebastian Bach,"Bach, JS: Violin Sonata No. 3 in C Major, BWV 1005: IV. Allegro assai",None,None,None,None,None
-2vPn5eIAKV8TcLzonBpFbR,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 2 in D Minor, BWV 1004: V. Chaconne",None,None,None,None,None
-41omAMrUKmRBrLcUaBNfhE,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro",None,None,None,None,None
-4RfuaLCdJxMTDFfTV9NScQ,Johann Sebastian Bach,"Bach, JS: Brandenburg Concerto No. 5 in D Major, BWV 1050: III. Allegro",None,None,None,None,None
-5ShuTHPZgMk5CDf5oqf3wL,Johann Sebastian Bach,"Bach, JS: Concerto for 2 Violins in D Minor, BWV 1043: II. Largo ma non tanto",None,None,None,None,None
-6NoUOXe1ZN6poYJBkL6O36,Johann Sebastian Bach,"Bach, JS: Concerto for Violin and Oboe in C Minor, BWV 1060R: II. Adagio",None,None,None,None,None
-6llVDJU36xwNGtRhhT0qar,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",None,None,None,None,None
-7hXEdy8e4zqJDgJuCboJqT,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 2 in E Major, BWV 1042: III. Allegro assai",None,None,None,None,None
+0PoNpBcunIOHeCtheBODAX,Johann Sebastian Bach,"Bach, JS: Brandenburg Concerto No. 5 in D Major, BWV 1050: III. Allegro",0.0,0.0,0.0,0.0,0.0
+0tEyKV5U7yLD5eKkBuT8vO,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 2 in D Minor, BWV 1004: V. Chaconne",0.0,0.0,0.0,0.0,0.0
+0wLPlyzRx6JnIoMN5SMGkq,Johann Sebastian Bach,"Bach, JS: Violin Sonata No.1 in G Minor, BWV 1001: II. Fuga (Allegro)",0.0,0.0,0.0,0.0,0.0
+1MNe1zwwmyTs6ZJBvTr9yS,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 2 in E Major, BWV 1042: III. Allegro assai",0.0,0.0,0.0,0.0,0.0
+1WNcrjT7WwF39OsnWS6kKi,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro",0.0,0.0,0.0,0.0,0.0
+1lQQ6vqKimR1fDKeTb9SfE,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",0.0,0.0,0.0,0.0,0.0
+2pDXV245WIrp7xhIGItyOy,Johann Sebastian Bach,"Bach, JS: Violin Sonata No. 3 in C Major, BWV 1005: IV. Allegro assai",0.0,0.0,0.0,0.0,0.0
+2vPn5eIAKV8TcLzonBpFbR,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 2 in D Minor, BWV 1004: V. Chaconne",0.0,0.0,0.0,0.0,0.0
+41omAMrUKmRBrLcUaBNfhE,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro",0.0,0.0,0.0,0.0,0.0
+4RfuaLCdJxMTDFfTV9NScQ,Johann Sebastian Bach,"Bach, JS: Brandenburg Concerto No. 5 in D Major, BWV 1050: III. Allegro",0.0,0.0,0.0,0.0,0.0
+5ShuTHPZgMk5CDf5oqf3wL,Johann Sebastian Bach,"Bach, JS: Concerto for 2 Violins in D Minor, BWV 1043: II. Largo ma non tanto",0.0,0.0,0.0,0.0,0.0
+6NoUOXe1ZN6poYJBkL6O36,Johann Sebastian Bach,"Bach, JS: Concerto for Violin and Oboe in C Minor, BWV 1060R: II. Adagio",0.0,0.0,0.0,0.0,0.0
+6llVDJU36xwNGtRhhT0qar,Johann Sebastian Bach,"Bach, JS: Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",0.0,0.0,0.0,0.0,0.0
+7hXEdy8e4zqJDgJuCboJqT,Johann Sebastian Bach,"Bach, JS: Violin Concerto No. 2 in E Major, BWV 1042: III. Allegro assai",0.0,0.0,0.0,0.0,0.0
 2DICpQzdDdeUeL8SkJ5g3W,Pink Sweat$,Coke & Henny Pt. 1,0.859,0.287,-12.85,0.853,129.954
 2riezZC8Rzk86sqZPZ8qXv,Quinn XCII,When I Die,0.817,0.355,-7.625,0.551,76.983
 3AgBE2feEejl1YggYIl4P2,G Herbo,Trained to Kill (Big Body Whips) [feat. Gunna],0.821,0.424,-9.312,0.191,126.006
@@ -1683,7 +1683,7 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 3nQ1w9UnN8pT5GNCafGIx1,Lil Wayne,"Scared of the Dark (Remix) [with Ty Dolla $ign and Ozuna, feat. XXXTENTACION] - Remix",0.346,0.652,-5.425,0.191,80.045
 1RqoiUFqBzWiyAbFQdHJaa,Bad Suns,One Magic Moment,0.31,0.741,-5.137,0.289,120.065
 1bLbbmA7EtM58UccsgozFT,Justin Rarri,W2Leezy,0.715,0.51,-6.943,0.542,139.997
-5Y5eLTDsnq1xTUpgh4uRno,Foster The People,Pumped Up Kicks,None,None,None,None,None
+5Y5eLTDsnq1xTUpgh4uRno,Foster The People,Pumped Up Kicks,0.0,0.0,0.0,0.0,0.0
 2mRbCWsFSYkTK6a6D1ghRn,YNW Melly,F*ck PNC Bank,0.828,0.456,-10.709,0.282,83.969
 3R73Y7X53MIQZWnKloWq5i,Toro y Moi,Monte Carlo (feat. WET),0.653,0.381,-8.967,0.133,140.08
 1jY7v9jG7kuUOGT9vVR6vs,Meghan Trainor,FOOLISH,0.645,0.563,-5.155,0.555,107.885
@@ -1745,8 +1745,8 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 6TVYfpUgrhL06qWlljUW5L,Saweetie,Trick,0.722,0.631,-7.696,0.599,177.996
 7w09r53aPON8ZUvEAnPe94,Badflower,Ghost,0.505,0.839,-4.966,0.326,139.961
 0PYdiBzO9IvWc6Y3wO1j7m,Better Oblivion Community Center,Didn't Know What I Was in For,0.443,0.275,-11.148,0.194,141.112
-0R6VAiJjuOLQXJrT9AF7tH,Marvin Gaye,I Wish It Would Rain - Stereo,None,None,None,None,None
-1foSCo3rmuC8uAYHHdwwwv,Marvin Gaye,Cloud Nine,None,None,None,None,None
+0R6VAiJjuOLQXJrT9AF7tH,Marvin Gaye,I Wish It Would Rain - Stereo,0.0,0.0,0.0,0.0,0.0
+1foSCo3rmuC8uAYHHdwwwv,Marvin Gaye,Cloud Nine,0.0,0.0,0.0,0.0,0.0
 34k0JmmsPwZW8KQkFFtBWF,Marvin Gaye,How Sweet It Is (To Be Loved By You),0.639,0.581,-6.955,0.891,110.519
 1fVfbJqf7IqsYZIMfn8ZtX,James TW,Big Picture,0.912,0.511,-5.548,0.805,119.992
 5xBafmhrJzzMsd1dxErIbJ,Mark Ronson,Nothing Breaks Like a Heart - Don Diablo Remix,0.712,0.871,-3.571,0.379,123.974
@@ -1774,37 +1774,37 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 6vHyPhg8fgclBiY8QN68wp,DREAMCATCHER,PIRI,0.507,0.869,-2.245,0.507,170.043
 7nRgXWoPQDLYoinFlw0gqU,Jai Wolf,Lose My Mind (feat. Mr Gabriel),0.606,0.775,-6.038,0.508,140.013
 01MAkCMIjbGNbAZ75aZV5r,Frédéric Chopin,"Piano Sonata No. 3 in B Minor, Op. 58: III. Largo (Live)",0.312,0.0104,-28.089,0.114,54.935
-0KElDKotFNGHV6xGQNuu8d,Frédéric Chopin,"Cello Sonata in G Minor, Op. 65: III. Largo",None,None,None,None,None
+0KElDKotFNGHV6xGQNuu8d,Frédéric Chopin,"Cello Sonata in G Minor, Op. 65: III. Largo",0.0,0.0,0.0,0.0,0.0
 0jGgvtVfz0rip7PW4rw9rT,Frédéric Chopin,"Nocturnes, Op. 27: No. 2, Lento sostenuto in D-Flat Major",0.395,0.0181,-25.49,0.0523,138.603
 0uidHXAPpfsaWsVpeVWvkq,Frédéric Chopin,"Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",0.201,0.0214,-30.046,0.0376,67.046
-17w7TwMiMBwWbry6magqSS,Frédéric Chopin,"Études, Op. 10: No. 6, Étude in E-Flat Minor ""Lament""",None,None,None,None,None
+17w7TwMiMBwWbry6magqSS,Frédéric Chopin,"Études, Op. 10: No. 6, Étude in E-Flat Minor ""Lament""",0.0,0.0,0.0,0.0,0.0
 1GiuJT3L8VyUIhvGWpa0jB,Frédéric Chopin,"Nocturne in C-Sharp Minor, B. 49 (Lento con gran espressione)",0.342,0.00754,-30.553,0.0986,79.859
-1OjtjVFl8PHxtE8RNWNrUq,Frédéric Chopin,"Nocturnes, Op. 27: No. 2, Lento sostenuto in D-Flat Major",None,None,None,None,None
+1OjtjVFl8PHxtE8RNWNrUq,Frédéric Chopin,"Nocturnes, Op. 27: No. 2, Lento sostenuto in D-Flat Major",0.0,0.0,0.0,0.0,0.0
 1U8Iu7bXsFbW56IbJqY5oK,Frédéric Chopin,"夜想曲 第 20番 嬰ハ短調, (遺作) レント・コン・グラン・エスプレッシオーネ",0.261,0.017,-27.843,0.124,72.07
-1VQYZsQeU19hT8JwPRLfvm,Frédéric Chopin,"Nocturnes, Op. 9: No. 2, Andante in E-Flat Major",None,None,None,None,None
-1Yaa39IYRK12SCzfLGtCUf,Frédéric Chopin,"Waltzes, Op. 64: No. 1, Molto vivace in D-Flat Major ""Minute Waltz""",None,None,None,None,None
+1VQYZsQeU19hT8JwPRLfvm,Frédéric Chopin,"Nocturnes, Op. 9: No. 2, Andante in E-Flat Major",0.0,0.0,0.0,0.0,0.0
+1Yaa39IYRK12SCzfLGtCUf,Frédéric Chopin,"Waltzes, Op. 64: No. 1, Molto vivace in D-Flat Major ""Minute Waltz""",0.0,0.0,0.0,0.0,0.0
 1ctsEQTnnVqYTMSua40TBY,Frédéric Chopin,"Préludes, Op. 28: No. 15, Sostenuto in D-Flat Major ""Raindrops""",0.375,0.0135,-22.472,0.065,77.361
-1h8EKMbb5dw7lxuMG9KxI1,Frédéric Chopin,"Préludes, Op. 28: No. 15, Sostenuto in D-Flat Major ""Raindrops""",None,None,None,None,None
-21xRbmGAe3HH4Dt61KJtBY,Frédéric Chopin,"Nocturnes, Op. 15: No. 1, Andante cantabile in F Major",None,None,None,None,None
+1h8EKMbb5dw7lxuMG9KxI1,Frédéric Chopin,"Préludes, Op. 28: No. 15, Sostenuto in D-Flat Major ""Raindrops""",0.0,0.0,0.0,0.0,0.0
+21xRbmGAe3HH4Dt61KJtBY,Frédéric Chopin,"Nocturnes, Op. 15: No. 1, Andante cantabile in F Major",0.0,0.0,0.0,0.0,0.0
 2IuApTHC6SiE0kUL9nROyT,Frédéric Chopin,"Andante Spianato et Grand Polonaise Brillante, Op. 22: II. Grande Polonaise Brilliante in E-Flat Major",0.342,0.15,-22.066,0.174,95.334
-2P6heyMJMy3F87kgE9qHTj,Frédéric Chopin,"Waltzes, Op. 69: No. 1 in A-Flat Major ""Farewell Waltz""",None,None,None,None,None
+2P6heyMJMy3F87kgE9qHTj,Frédéric Chopin,"Waltzes, Op. 69: No. 1 in A-Flat Major ""Farewell Waltz""",0.0,0.0,0.0,0.0,0.0
 2VPximeu6beBrEQcEBNg3P,Frédéric Chopin,"幻想即興曲 嬰ハ短調, 作品 66 (遺作)",0.217,0.129,-19.673,0.0708,80.364
 2dDJ3xGcfEflzgpetJPp2f,Frédéric Chopin,"バラード 第 1番 ト短調, 作品 23",0.253,0.202,-16.651,0.0393,66.629
 2ysApXHRsbrtmsRSLWQSpO,Frédéric Chopin,"Nocturne in C-Sharp Minor, B. 49 (Lento con gran espressione)",0.311,0.0428,-22.017,0.17,70.65
 34Psgipnhaq77DAgtBlLgn,Frédéric Chopin,"Fantaisie Impromptu in C-Sharp Major, Op. 66",0.186,0.026,-29.316,0.1,82.608
 3MXbEUz7EYmPSzDCpSAPe6,Frédéric Chopin,"Fugue in A Minor, B. 144",0.274,0.0323,-30.102,0.0946,65.493
 3NZywFOS4Wp2KXZ72Eg7Mw,Frédéric Chopin,"Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",0.201,0.0214,-30.046,0.0376,67.046
-3vKGv0P73T8FMcdEgXS6Xk,Frédéric Chopin,"Études, Op. 10: No. 8, Étude in F Major",None,None,None,None,None
+3vKGv0P73T8FMcdEgXS6Xk,Frédéric Chopin,"Études, Op. 10: No. 8, Étude in F Major",0.0,0.0,0.0,0.0,0.0
 43LgFIkNMmIFBSaTKc0qT4,Frédéric Chopin,"Nocturne in E-Flat Major, Op. 9 No. 2",0.421,0.0537,-23.098,0.0644,63.905
 49QAUGEp8XbIcSjtom0Zid,Frédéric Chopin,"Nocturnes, Op. 9: No. 2, Andante in E-Flat Major",0.429,0.0293,-24.895,0.123,101.049
 4LuNe7HkifoIVUVWPyvluL,Frédéric Chopin,"Piano Concerto No. 1 in E Minor, Op. 11: II. Romance (Larghetto)",0.327,0.0223,-28.174,0.0397,107.984
-4lzEPhUrQDyP08zPjPJE7V,Frédéric Chopin,"Études, Op. 10: No. 3, Étude in E Major, ""Tristesse""",None,None,None,None,None
+4lzEPhUrQDyP08zPjPJE7V,Frédéric Chopin,"Études, Op. 10: No. 3, Étude in E Major, ""Tristesse""",0.0,0.0,0.0,0.0,0.0
 5fAtv4gL4NyPZ5TprqhfEI,Frédéric Chopin,"Nocturnes, Op. 27: No. 2, Lento sostenuto in D-Flat Major",0.395,0.0181,-25.49,0.0523,138.603
 5nrbyCBKb2XxDMqaPP4eAi,Frédéric Chopin,"Piano Concerto No. 2 in F Minor, Op. 21: III. Finale (Allegro vivace)",0.327,0.147,-21.317,0.18,105.425
-5utyuWyY9oBp6oXdRCvn2P,Frédéric Chopin,"Nocturnes, Op. 9: No. 1, Larghetto in B-Flat Minor",None,None,None,None,None
-6AQTsrWT6HkY2UoTgqujU9,Frédéric Chopin,"Berceuse in D-Flat Major, Op. 57",None,None,None,None,None
+5utyuWyY9oBp6oXdRCvn2P,Frédéric Chopin,"Nocturnes, Op. 9: No. 1, Larghetto in B-Flat Minor",0.0,0.0,0.0,0.0,0.0
+6AQTsrWT6HkY2UoTgqujU9,Frédéric Chopin,"Berceuse in D-Flat Major, Op. 57",0.0,0.0,0.0,0.0,0.0
 6dZ3KmDvywff0feHcAzkIa,Frédéric Chopin,"Ballade No. 4 in F Minor, Op. 52 (Live)",0.259,0.147,-21.042,0.0546,80.828
-6gzyKVwkvqK5E3ERQWc60y,Frédéric Chopin,"Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",None,None,None,None,None
+6gzyKVwkvqK5E3ERQWc60y,Frédéric Chopin,"Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",0.0,0.0,0.0,0.0,0.0
 6mCcFDlJzpDhcruhsOnH2f,Frédéric Chopin,"Nocturnes, Op. 9: No. 2, Andante in E-Flat Major",0.429,0.0293,-24.895,0.123,101.049
 78fvNTfzdwiN7QpPZPvfsr,Frédéric Chopin,"Nocturnes, Op. 9: II. Andante in E-Flat Major",0.409,0.034,-29.061,0.0521,81.051
 7MRkrXN8n8pwJquoZ2JekL,Frédéric Chopin,"Cello Sonata in G Minor, Op. 65: III. Largo",0.111,0.00743,-32.712,0.0712,89.978
@@ -1845,53 +1845,53 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 56bbqIxsAzzNX28hYl8wRL,Julia Michaels,Apple,0.65,0.361,-6.853,0.344,126.077
 0A31i51V3omHTJMDCJxDfh,PUP,Morbid Stuff,0.448,0.921,-3.726,0.498,160.959
 4i1IFCnXF40pbYZ7X19Fqb,Claud,Easy,0.822,0.542,-7.598,0.546,147.046
-00QuUxB7jJkBJW5ItNIGfi,Wolfgang Amadeus Mozart,"Piano Concerto No. 26 in D Major, K. 537 ""Coronation"": II. Larghetto",None,None,None,None,None
-01Y8N5D0bwknCK7xEryLnw,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act I: ""Là ci darem la mano""",None,None,None,None,None
-05BVBXxhA3K0Tm6v7Rm09H,Wolfgang Amadeus Mozart,"Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",None,None,None,None,None
-079OSKR16SX3EtXVVfQWmV,Wolfgang Amadeus Mozart,"Symphony No. 40 in G Minor, K. 550: I. Allegro molto",None,None,None,None,None
+00QuUxB7jJkBJW5ItNIGfi,Wolfgang Amadeus Mozart,"Piano Concerto No. 26 in D Major, K. 537 ""Coronation"": II. Larghetto",0.0,0.0,0.0,0.0,0.0
+01Y8N5D0bwknCK7xEryLnw,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act I: ""Là ci darem la mano""",0.0,0.0,0.0,0.0,0.0
+05BVBXxhA3K0Tm6v7Rm09H,Wolfgang Amadeus Mozart,"Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",0.0,0.0,0.0,0.0,0.0
+079OSKR16SX3EtXVVfQWmV,Wolfgang Amadeus Mozart,"Symphony No. 40 in G Minor, K. 550: I. Allegro molto",0.0,0.0,0.0,0.0,0.0
 08vVIdC5o7F23ZKjKT5fQG,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""Der Hölle Rache kocht in meinem Herzen"" (Queen of the Night's Aria)",0.42,0.148,-18.612,0.145,146.654
 0DOvYqwU0fxwHuhsP0jniI,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620: Overture",0.415,0.203,-14.827,0.161,85.33
 0GZDRnfdIwW6IvkpXpJLFb,Wolfgang Amadeus Mozart,"Symphony No. 40 in G Minor, K. 550: I. Allegro molto",0.356,0.311,-14.225,0.259,116.517
-0Lf2NEx951rwGibKNXoqri,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""O Isis und Osiris""",None,None,None,None,None
-0MQ4MnLvj883E8YHen6BfQ,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136 ""Salzburg Symphony No. 1"": III. Presto",None,None,None,None,None
+0Lf2NEx951rwGibKNXoqri,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""O Isis und Osiris""",0.0,0.0,0.0,0.0,0.0
+0MQ4MnLvj883E8YHen6BfQ,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136 ""Salzburg Symphony No. 1"": III. Presto",0.0,0.0,0.0,0.0,0.0
 0Md6JQpeEXKfZCMi1sQPGu,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": III. Adagio",0.0623,0.0757,-22.673,0.0399,65.366
 0OTl07o7nUw95fOswlVduJ,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine Kleine Nachtmusik"": I. Allegro",0.447,0.138,-19.157,0.407,148.79
 0REPDQ5ALABEYCuekmI1T3,Wolfgang Amadeus Mozart,"Adagio in E Major, K. 261",0.202,0.0769,-21.255,0.0716,94.894
 0Ta7kNvtNiTS2oPPeFdECJ,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620: Overture",0.415,0.203,-14.827,0.161,85.33
 0U9p9N7ume89GlmKfIS9aJ,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: III. Sequenz, No. 6, Lacrymosa",0.174,0.2,-14.482,0.0398,95.555
-0VpEfhFHGNrxL6qShdJ7sO,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante",None,None,None,None,None
+0VpEfhFHGNrxL6qShdJ7sO,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante",0.0,0.0,0.0,0.0,0.0
 0WJPqbOEJE8SZyD1oH7wDd,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante",0.172,0.105,-20.553,0.103,176.597
-0aqEvO8s8E5OwFivilSbZx,Wolfgang Amadeus Mozart,"Violin Concerto No. 5 in A Major, K. 219 ""Turkish Concerto"": III. Rondeau, Tempo di Menuetto",None,None,None,None,None
-0jNsZNAtZUM4rIF7V5Ekue,Wolfgang Amadeus Mozart,"Sonata for Two Pianos in D Major, K. 448: I. Allegro con spirito",None,None,None,None,None
-0jdEpM1BMU1qdJJBy6ZKnr,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": V. Romance (Adagio)",None,None,None,None,None
-0lH49wtG9SuP4UBKQcGnlx,Wolfgang Amadeus Mozart,"Horn Concerto No. 3 in E-Flat Major, K. 447: III. Rondo: Allegro vivace",None,None,None,None,None
-0nGxKQTLRA1Hn9R2qze8wW,Wolfgang Amadeus Mozart,"Serenade in G Major, K. 525 ""Eine kleine Nachtmusik"": I. Allegro",None,None,None,None,None
+0aqEvO8s8E5OwFivilSbZx,Wolfgang Amadeus Mozart,"Violin Concerto No. 5 in A Major, K. 219 ""Turkish Concerto"": III. Rondeau, Tempo di Menuetto",0.0,0.0,0.0,0.0,0.0
+0jNsZNAtZUM4rIF7V5Ekue,Wolfgang Amadeus Mozart,"Sonata for Two Pianos in D Major, K. 448: I. Allegro con spirito",0.0,0.0,0.0,0.0,0.0
+0jdEpM1BMU1qdJJBy6ZKnr,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": V. Romance (Adagio)",0.0,0.0,0.0,0.0,0.0
+0lH49wtG9SuP4UBKQcGnlx,Wolfgang Amadeus Mozart,"Horn Concerto No. 3 in E-Flat Major, K. 447: III. Rondo: Allegro vivace",0.0,0.0,0.0,0.0,0.0
+0nGxKQTLRA1Hn9R2qze8wW,Wolfgang Amadeus Mozart,"Serenade in G Major, K. 525 ""Eine kleine Nachtmusik"": I. Allegro",0.0,0.0,0.0,0.0,0.0
 0tP1s5KH3YFGCxcWWxDDO4,Wolfgang Amadeus Mozart,"Piano Concerto No. 20 in D Minor, K. 466: II. Romance",0.22,0.0522,-24.07,0.114,83.14
-0uZWUU2XdJsLPM9YgTaf6z,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: III. Sequentia: Dies irae",None,None,None,None,None
+0uZWUU2XdJsLPM9YgTaf6z,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: III. Sequentia: Dies irae",0.0,0.0,0.0,0.0,0.0
 0wKw3ELsYDYkJAxDdoj3fn,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine Kleine Nachtmusik"": III. Romanze (Andante)",0.286,0.0302,-23.291,0.279,84.412
 11k1VDnCKhvSWsLUeuIYu2,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": I. Largo - Molto allegro",0.365,0.0953,-17.664,0.165,91.62
-13M0ef5TMEKfLZZb8YBbty,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act I: ""Der Vogelfänger bin ich ja"" (Birdcatcher's Aria)",None,None,None,None,None
-13X1GygXa4V5f0afMUo4Cr,Wolfgang Amadeus Mozart,"Symphony No. 35 in D Major, K. 385 ""Haffner"": II. Andante",None,None,None,None,None
+13M0ef5TMEKfLZZb8YBbty,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act I: ""Der Vogelfänger bin ich ja"" (Birdcatcher's Aria)",0.0,0.0,0.0,0.0,0.0
+13X1GygXa4V5f0afMUo4Cr,Wolfgang Amadeus Mozart,"Symphony No. 35 in D Major, K. 385 ""Haffner"": II. Andante",0.0,0.0,0.0,0.0,0.0
 199Sms63xUe92xuADo4C3K,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act I: ""O zittre nicht, mein lieber Sohn""",0.387,0.119,-18.067,0.0656,118.565
-1D1YAETLlfOjTAodwtGq6j,Wolfgang Amadeus Mozart,"Quartet No. 1 in D Major for Flute and String Trio, K. 285: II. Adagio",None,None,None,None,None
+1D1YAETLlfOjTAodwtGq6j,Wolfgang Amadeus Mozart,"Quartet No. 1 in D Major for Flute and String Trio, K. 285: II. Adagio",0.0,0.0,0.0,0.0,0.0
 1DfvPhlEVFVGZKGfrvm7iL,Wolfgang Amadeus Mozart,"Flute and Harp Concerto in C Major, K. 299: III. Rondeau (Allegro)",0.354,0.122,-21.394,0.34,99.758
 1EOen3eOUfm4KgT5XwzOpY,Wolfgang Amadeus Mozart,"Clarinet Quintet in A Major, K. 581: II. Larghetto",0.0744,0.0357,-27.489,0.0412,78.35
-1H6lWBpkenYvFAM1bkpVdV,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492: Overture",None,None,None,None,None
+1H6lWBpkenYvFAM1bkpVdV,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492: Overture",0.0,0.0,0.0,0.0,0.0
 1JITdDjVKVQISI0R7GJfSv,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""Pa-pa-pa-papagena""",0.453,0.181,-20.37,0.393,113.489
-1KC1aOL4NBL4CmIXAAosWf,Wolfgang Amadeus Mozart,"String Quartet No. 19 in C Major, K. 465: I. Adagio - Allegro",None,None,None,None,None
+1KC1aOL4NBL4CmIXAAosWf,Wolfgang Amadeus Mozart,"String Quartet No. 19 in C Major, K. 465: I. Adagio - Allegro",0.0,0.0,0.0,0.0,0.0
 1N7Q6O5Or4VxlrT1LD92A1,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: XI. Sanctus",0.301,0.163,-17.589,0.307,89.519
 1OXqTngfr9pmDIgcmISa4K,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": III. Adagio",0.0623,0.0757,-22.673,0.0399,65.366
-1PuQJPRUOcQI16GMYY5Znv,Wolfgang Amadeus Mozart,"Mozart: Die Zauberflöte, K. 620, Act 2: ""O Isis und Osiris"" (Sarastro, Chorus)",None,None,None,None,None
+1PuQJPRUOcQI16GMYY5Znv,Wolfgang Amadeus Mozart,"Mozart: Die Zauberflöte, K. 620, Act 2: ""O Isis und Osiris"" (Sarastro, Chorus)",0.0,0.0,0.0,0.0,0.0
 1Qy9oTIiQZxasyCzHrcenM,Wolfgang Amadeus Mozart,"Requiem, K. 626: IIIa. Sequenz, Dies Irae",0.368,0.702,-10.506,0.495,86.775
 1VMG2MPdklEbO7S0Q4DIiD,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": IV. Menuetto (Allegretto)",0.38,0.0372,-19.065,0.333,128.607
 1dJA9h2sUSLbKqauCUGQqq,Wolfgang Amadeus Mozart,"Symphony No. 40 in G Minor, K. 550: I. Allegro molto",0.356,0.311,-14.225,0.259,116.517
-1dkYZFzFEPtPBUxWpgcs3E,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492, Act III: March",None,None,None,None,None
+1dkYZFzFEPtPBUxWpgcs3E,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492, Act III: March",0.0,0.0,0.0,0.0,0.0
 1gqEPzEanFDEVruN49GpVH,Wolfgang Amadeus Mozart,"Coronation Mass in C Major, K. 317: III. Credo",0.349,0.261,-17.455,0.178,98.252
 1hiG9pZOBcMLbWOQqW316T,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IIIa. Sequenz, Dies irae",0.413,0.242,-16.672,0.445,84.063
 1kfNLWBoP85rhCfJ3Utph5,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: I. Introitus: Requiem aeternam",0.141,0.0573,-23.707,0.0381,81.727
-1l2qBGK8wsbLCT9i7AIGGG,Wolfgang Amadeus Mozart,"Three German Dances, K. 605: Dance No. 3 in C Major ""Sleigh Ride""",None,None,None,None,None
-1n26IoOkTAIFrpxZztRf0w,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620: Overture",None,None,None,None,None
-1osv5CY4YJSiQqJhtpAGKW,Wolfgang Amadeus Mozart,"Piano Sonata No. 11 in A Major, K. 331: III. Alla turca",None,None,None,None,None
+1l2qBGK8wsbLCT9i7AIGGG,Wolfgang Amadeus Mozart,"Three German Dances, K. 605: Dance No. 3 in C Major ""Sleigh Ride""",0.0,0.0,0.0,0.0,0.0
+1n26IoOkTAIFrpxZztRf0w,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620: Overture",0.0,0.0,0.0,0.0,0.0
+1osv5CY4YJSiQqJhtpAGKW,Wolfgang Amadeus Mozart,"Piano Sonata No. 11 in A Major, K. 331: III. Alla turca",0.0,0.0,0.0,0.0,0.0
 1qZtqrtgb4JK96nWy7J57o,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine Kleine Nachtmusik""",0.419,0.0509,-21.541,0.275,121.816
 1qsooriD3FwQXuuCWV9eKH,Wolfgang Amadeus Mozart,"Flute and Harp Concerto in C Major, K. 299: II. Andantino",0.328,0.0811,-22.408,0.196,110.91
 1ummltvAxikDq36V5mVDUO,Wolfgang Amadeus Mozart,"Piano Concerto No. 25 in C Major, K. 503: I. Allegro maestoso",0.286,0.134,-19.64,0.184,139.889
@@ -1901,25 +1901,25 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 29QCpPKYhugUzeHvsn0TGR,Wolfgang Amadeus Mozart,"Flute Concerto No. 2 in D Major, K. 314: III. Rondo (Allegretto)",0.487,0.14,-19.037,0.625,124.171
 2Dv9YW9pad4EsUJWsTxds4,Wolfgang Amadeus Mozart,"Piano Sonata No. 11 in A Major, K. 331: III. Alla turca",0.516,0.153,-20.78,0.476,136.742
 2EoLn0fbBmzkRf88wzCsPF,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": I. Allegro vivace",0.425,0.141,-16.705,0.333,77.377
-2G0ueW5qYaVgCqGwB1aqEf,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""Der Hölle Rache kocht in meinem Herzen"" (Queen of the Night's Aria)",None,None,None,None,None
+2G0ueW5qYaVgCqGwB1aqEf,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""Der Hölle Rache kocht in meinem Herzen"" (Queen of the Night's Aria)",0.0,0.0,0.0,0.0,0.0
 2Gc5mC982bqJe7LZSvIMSN,Wolfgang Amadeus Mozart,"Flute Concerto No. 1 in G Major, K. 313: I. Allegro maestoso",0.361,0.154,-19.023,0.416,121.269
 2K6qxebuuD1QDls8BaUEim,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante",0.172,0.105,-20.553,0.103,176.597
-2Ovr1N1hjKiiwdFoDlstCs,Wolfgang Amadeus Mozart,"Così fan tutte, K. 588, Act I: ""Soave sia il vento"" (Trio)",None,None,None,None,None
+2Ovr1N1hjKiiwdFoDlstCs,Wolfgang Amadeus Mozart,"Così fan tutte, K. 588, Act I: ""Soave sia il vento"" (Trio)",0.0,0.0,0.0,0.0,0.0
 2PBofBlEBqGQZ3hZS18J5F,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IX. Offertorium: Domine Jesu Christe",0.387,0.143,-22.688,0.223,93.68
 2U21ams6Xxksy0m1jLpDYH,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine Kleine Nachtmusik"": IV. Rondo (Allegro)",0.422,0.206,-20.078,0.685,124.096
 2YD607JWYbXy16f7y3bYaZ,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": IV. Molto allegro",0.293,0.382,-14.262,0.334,137.014
 2bGkc1X2mzAQNsPeDebArc,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""O Isis und Osiris""",0.0747,0.0447,-26.062,0.041,70.602
-2bVr6ALN4NXUI4IDoOdExF,Wolfgang Amadeus Mozart,"Violin Sonata No. 24 in F Major, K. 376: III. Rondo (Allegretto grazioso)",None,None,None,None,None
+2bVr6ALN4NXUI4IDoOdExF,Wolfgang Amadeus Mozart,"Violin Sonata No. 24 in F Major, K. 376: III. Rondo (Allegretto grazioso)",0.0,0.0,0.0,0.0,0.0
 2bwL23qC0lQFiLLbdu1jU9,Wolfgang Amadeus Mozart,"Coronation Mass in C Major, K. 317: VI. Agnus Dei",0.214,0.131,-19.85,0.108,77.264
 2df4NM3TaQSNmyezb3q4gI,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136: 2. Andante (Arr. Timothy Kain)",0.572,0.0312,-25.72,0.274,98.533
 2dg7SrpJMBm6cFuswvJV8Z,Wolfgang Amadeus Mozart,"Piano Sonata No. 11 in A Major, K. 331: III. Alla turca",0.516,0.153,-20.78,0.476,136.742
 2eM3PNepEikY4VdMuZl3TD,Wolfgang Amadeus Mozart,"String Quartet No. 18 in A Major, K. 464: I. Allegro",0.28,0.0932,-17.625,0.197,141.452
-2hNIsRjAY0dxcJcmE8ItfM,Wolfgang Amadeus Mozart,"Flute Concerto No. 1 in G Major, K. 313: I. Allegro maestoso",None,None,None,None,None
-2n0F92lkeavEO2XRqBKwFs,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: Chorus of the Priests",None,None,None,None,None
+2hNIsRjAY0dxcJcmE8ItfM,Wolfgang Amadeus Mozart,"Flute Concerto No. 1 in G Major, K. 313: I. Allegro maestoso",0.0,0.0,0.0,0.0,0.0
+2n0F92lkeavEO2XRqBKwFs,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: Chorus of the Priests",0.0,0.0,0.0,0.0,0.0
 2nkF3YTPHNTDnDCextgBmL,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act I: ""Batti, batti o bel Masetto""",0.424,0.111,-15.016,0.479,112.019
 2o2KDqpQcM0NwAoQEOA75m,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: VII. Sequentia: Confutatis",0.128,0.00989,-26.483,0.035,66.414
 2qzaZd6f4B9N1ulQBFdV3f,Wolfgang Amadeus Mozart,"Flute Concerto No. 2 in D Major, K. 314: II. Adante ma non troppo",0.199,0.068,-21.907,0.154,84.807
-2stwVUUOgO7KMeUOx3wKqJ,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act I: ""Madamina! Il catalogo è questo""",None,None,None,None,None
+2stwVUUOgO7KMeUOx3wKqJ,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act I: ""Madamina! Il catalogo è questo""",0.0,0.0,0.0,0.0,0.0
 2vsotnSIJqE7tFc7FX5dCc,Wolfgang Amadeus Mozart,"String Quartet No. 18 in A Major, K. 464: II. Menuetto and Trio",0.35,0.0416,-19.084,0.205,134.48
 2y1uelwatDzy4KMMiXGbsM,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""Der Hölle Rache kocht in meinem Herzen""",0.42,0.148,-18.612,0.145,146.654
 2yBdoXBK6GcXsoCjWbGkro,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act I: ""Der Vogelfänger bin ich ja"" (Birdcatcher's Aria)",0.451,0.13,-17.165,0.337,140.149
@@ -1927,13 +1927,13 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 34jipDkW0dN4OJkGbMdRZ5,Wolfgang Amadeus Mozart,"Piano Sonata No. 12 in F Major, K. 332: II. Adagio",0.367,0.0846,-27.395,0.402,80.341
 373aN6QeGS5PU0LWRPMzwp,Wolfgang Amadeus Mozart,"Flute Quartet No. 1 in D Major, K. 285: I. Allegro",0.494,0.151,-16.456,0.491,127.231
 38MOAy4qZyQYvHFLPDd0UD,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492: Overture",0.396,0.126,-17.697,0.192,73.426
-3AgO3ogqGtag6liKkMQcx0,Wolfgang Amadeus Mozart,"Mozart: Le nozze di Figaro, K. 492, Act 2: ""Porgi, amor"" (Countess)",None,None,None,None,None
+3AgO3ogqGtag6liKkMQcx0,Wolfgang Amadeus Mozart,"Mozart: Le nozze di Figaro, K. 492, Act 2: ""Porgi, amor"" (Countess)",0.0,0.0,0.0,0.0,0.0
 3EfQxYcfm6YVl6P9Xm1bKK,Wolfgang Amadeus Mozart,"Alla Turca - from Piano Sonata No. 11 in A Major, KV331",0.497,0.24,-12.721,0.673,133.932
 3Fpjb6Fj7dg9CXIk6pKnB5,Wolfgang Amadeus Mozart,"Prelude and Fugue in C Major, K. 394",0.278,0.181,-19.701,0.32,75.607
-3JTYZ7MA9xZrFTNzrt8WtQ,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act II: ""Deh, vieni alla finestra""",None,None,None,None,None
-3LPOhUmQ4qrzx8xueg30pl,Wolfgang Amadeus Mozart,"Clarinet Concerto in A Major, K. 622: II. Adagio",None,None,None,None,None
+3JTYZ7MA9xZrFTNzrt8WtQ,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act II: ""Deh, vieni alla finestra""",0.0,0.0,0.0,0.0,0.0
+3LPOhUmQ4qrzx8xueg30pl,Wolfgang Amadeus Mozart,"Clarinet Concerto in A Major, K. 622: II. Adagio",0.0,0.0,0.0,0.0,0.0
 3O6pGkMJ3J2yC0i5kEqt3y,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine Kleine Nachtmusik"": III. Menuetto (Allegretto)",0.351,0.023,-19.64,0.528,143.034
-3VlXKCVpo90MTgdIYvP1TK,Wolfgang Amadeus Mozart,"Serenade No. 9 in D Major, K. 320 ""Posthorn"": VI. Minuetto - Trio 1 & 2",None,None,None,None,None
+3VlXKCVpo90MTgdIYvP1TK,Wolfgang Amadeus Mozart,"Serenade No. 9 in D Major, K. 320 ""Posthorn"": VI. Minuetto - Trio 1 & 2",0.0,0.0,0.0,0.0,0.0
 3aPHu5ie62dRZqxfe1bVJA,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IIIf. Sequenz, Lacrymosa",0.174,0.2,-14.482,0.0398,95.555
 3c8Y5GN56utniLdTdwd7OE,Wolfgang Amadeus Mozart,"6 German Dances, K. 600: Dance No. 5 in G Major (The Canary Bird)",0.701,0.0434,-15.331,0.816,124.928
 3ePTpw5W77B329yKo2lSmV,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136 ""Salzburg Symphony No. 1"": I. Allegro",0.54,0.196,-19.806,0.62,141.408
@@ -1941,61 +1941,61 @@ Track ID,Artist Name,Track Name,Danceability,Energy,Loudness,Valence,Tempo
 3hKsYnDx88lVNpE6aH0Vga,Wolfgang Amadeus Mozart,"String Quartet No. 18 in A Major, K. 464: III. Andante",0.205,0.0845,-20.766,0.135,94.2
 3hMEAIfKgPG1aSs0WYlvcv,Wolfgang Amadeus Mozart,"Coronation Mass in C Major, K. 317: I. Kyrie",0.246,0.15,-19.396,0.0631,87.211
 3iGhB5ZpGbIcp1DqFqxrmz,Wolfgang Amadeus Mozart,"Piano Concerto No. 23 in A Major, K. 488: II. Adagio",0.219,0.0128,-30.068,0.0542,78.12
-3l4eggn1DlRUvOFFg7c9dY,Wolfgang Amadeus Mozart,"Symphony No. 38 in D Major, K. 504 ""Prague"": II. Andante",None,None,None,None,None
-3tWk9BMQLnnsbNy8XpnEcf,Wolfgang Amadeus Mozart,"Symphony No. 27 in G Major, K. 199: II. Andantino grazioso",None,None,None,None,None
+3l4eggn1DlRUvOFFg7c9dY,Wolfgang Amadeus Mozart,"Symphony No. 38 in D Major, K. 504 ""Prague"": II. Andante",0.0,0.0,0.0,0.0,0.0
+3tWk9BMQLnnsbNy8XpnEcf,Wolfgang Amadeus Mozart,"Symphony No. 27 in G Major, K. 199: II. Andantino grazioso",0.0,0.0,0.0,0.0,0.0
 3wZPYsgFniMcb75qZFAi6f,Wolfgang Amadeus Mozart,"Zaide, K. 344, Act I: Ruhe sanft, mein holdes Leben",0.216,0.0817,-21.74,0.0879,68.41
-3xo2KENYbqAEBC0iX9RT5u,Wolfgang Amadeus Mozart,"Flute Concerto No. 1 in G Major, K. 313: II. Adagio non troppo",None,None,None,None,None
-3y6fPqZgTT1QFdHYRJYhKR,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136 ""Salzburg Symphony No. 1"": II. Andante",None,None,None,None,None
+3xo2KENYbqAEBC0iX9RT5u,Wolfgang Amadeus Mozart,"Flute Concerto No. 1 in G Major, K. 313: II. Adagio non troppo",0.0,0.0,0.0,0.0,0.0
+3y6fPqZgTT1QFdHYRJYhKR,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136 ""Salzburg Symphony No. 1"": II. Andante",0.0,0.0,0.0,0.0,0.0
 3yXwX4nqtS9G9F8afZh5mk,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": III. Adagio",0.0618,0.0291,-29.252,0.0411,64.018
 40TMmkWvVnELoVqA5CVLYH,Wolfgang Amadeus Mozart,"Adagio and Fugue in C Minor for Organ, K. 546: I. Adagio",0.114,0.0323,-17.909,0.0389,67.228
-44M3RU2GeYZNukfvRfGv0p,Wolfgang Amadeus Mozart,"Piano Sonata No. 13 in B-Flat Major, K. 333: III. Allegretto grazioso",None,None,None,None,None
+44M3RU2GeYZNukfvRfGv0p,Wolfgang Amadeus Mozart,"Piano Sonata No. 13 in B-Flat Major, K. 333: III. Allegretto grazioso",0.0,0.0,0.0,0.0,0.0
 46IsXxYhc4UABRyUI0r1bB,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": III. Adagio",0.0623,0.0757,-22.673,0.0399,65.366
 47TA2xg66J8DXQPuVKgTBh,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante",0.172,0.105,-20.553,0.103,176.597
 48G7xzwW0TPliaNmqpXqpm,Wolfgang Amadeus Mozart,"Andante in C Major, K. 315",0.259,0.0528,-25.213,0.122,95.85
-48IwszDL440DOd17rWcliU,Wolfgang Amadeus Mozart,"Mozart: Don Giovanni, K. 527, Act 2: ""Deh vieni all finestra"" (Don Giovanni)",None,None,None,None,None
-49I01O854YDbG1oXSLk00h,Wolfgang Amadeus Mozart,"Symphony No. 24 in B-Flat Major, K. 182: II. Andantino grazioso",None,None,None,None,None
-4Ca2NyZllWU9xL3G4pTVyN,Wolfgang Amadeus Mozart,"String Quartet No. 19 in C Major, K. 465: II. Andante cantabile",None,None,None,None,None
+48IwszDL440DOd17rWcliU,Wolfgang Amadeus Mozart,"Mozart: Don Giovanni, K. 527, Act 2: ""Deh vieni all finestra"" (Don Giovanni)",0.0,0.0,0.0,0.0,0.0
+49I01O854YDbG1oXSLk00h,Wolfgang Amadeus Mozart,"Symphony No. 24 in B-Flat Major, K. 182: II. Andantino grazioso",0.0,0.0,0.0,0.0,0.0
+4Ca2NyZllWU9xL3G4pTVyN,Wolfgang Amadeus Mozart,"String Quartet No. 19 in C Major, K. 465: II. Andante cantabile",0.0,0.0,0.0,0.0,0.0
 4Cj6fU2e6ljvwt6gZ9Ls7c,Wolfgang Amadeus Mozart,"Serenade No. 10 in B-Flat Major, K. 361 ""Gran Partita"": II. Menuetto",0.205,0.0458,-19.261,0.149,86.209
-4DhNL5tMwTQiLq2nPPwWF1,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""Pa-pa-pa-papagena""",None,None,None,None,None
-4Gahj4rGkqXlL9XDuIX9Pj,Wolfgang Amadeus Mozart,"Violin Sonata No. 17 in C Major, K. 296: II. Andante sostenuto",None,None,None,None,None
+4DhNL5tMwTQiLq2nPPwWF1,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act II: ""Pa-pa-pa-papagena""",0.0,0.0,0.0,0.0,0.0
+4Gahj4rGkqXlL9XDuIX9Pj,Wolfgang Amadeus Mozart,"Violin Sonata No. 17 in C Major, K. 296: II. Andante sostenuto",0.0,0.0,0.0,0.0,0.0
 4H9qGpsdFEvaJFbEsuMb0C,Wolfgang Amadeus Mozart,"Die Zauberflöte (The Magic Flute), K. 620, Act I: ""Dies Bildnis ist bezaubernd schön""",0.176,0.19,-15.667,0.0551,66.35
 4LbBR5Ay5Rm9AeFqrSWyks,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: X. Offertorium: Hostias et preces",0.171,0.0896,-22.925,0.0631,86.659
 4MKY5YarK8mSPD3j4Y2DCd,Wolfgang Amadeus Mozart,"Adagio in E Major, K. 261",0.202,0.0769,-21.255,0.0716,94.894
 4MPemQaXHP5L6V77rRXVv7,Wolfgang Amadeus Mozart,"Masonic Funeral Music in C Minor, K. 477 ""Maurerische Trauermusic""",0.136,0.143,-16.589,0.0378,92.016
 4PvS1mxy7skFfJmKZX1Ukl,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: XIII. Agnus Dei",0.161,0.0313,-23.507,0.035,52.527
 4T6gw6RkKoTSL5AjjAcfl1,Wolfgang Amadeus Mozart,"Clarinet Concerto in A Major, K. 622: II. Adagio",0.0889,0.0257,-23.343,0.0404,83.192
-4TWEI48pjtYdyDxOCCegEu,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": IV. Finale: Allegro molto",None,None,None,None,None
+4TWEI48pjtYdyDxOCCegEu,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": IV. Finale: Allegro molto",0.0,0.0,0.0,0.0,0.0
 4VL2mY1LwnCjHYcbPLuddA,Wolfgang Amadeus Mozart,"String Quartet No. 18 in A Major, K. 464: IV. Allegro",0.281,0.12,-19.063,0.251,92.559
 4Wm34EhXNyC5RqQR5aBQwH,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620: Overture",0.415,0.203,-14.827,0.161,85.33
 4YpC8mg32ac7xeHXzRA48i,Wolfgang Amadeus Mozart,"String Quartet No. 15 in D Minor, K. 421: I. Allegro",0.238,0.0427,-22.258,0.137,84.183
 4b3auGge5EYekOHGyLa92s,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527: Overture",0.338,0.128,-18.131,0.286,121.78
 4cCu256sEJUFRmvCw83bQk,Wolfgang Amadeus Mozart,"Serenade in G Major, K. 525 ""Eine kleine Nachtmusik"": II. Romance (Andante)",0.352,0.0832,-17.551,0.239,124.749
-4eneonSW8sJDo4YRWi8SXK,Wolfgang Amadeus Mozart,"Andante in C Major, K. 315",None,None,None,None,None
+4eneonSW8sJDo4YRWi8SXK,Wolfgang Amadeus Mozart,"Andante in C Major, K. 315",0.0,0.0,0.0,0.0,0.0
 4gLGllfqvxfh1b388psJXI,Wolfgang Amadeus Mozart,"Clarinet Quintet in A Major, K. 581: II. Larghetto",0.0675,0.00413,-30.99,0.0394,72.941
-4gT102UxzcmsosnSGjJgTM,Wolfgang Amadeus Mozart,"Mozart: Don Giovanni, K. 527, Act 1: ""Batti, batti, o bel Masetto"" (Zerlina)",None,None,None,None,None
+4gT102UxzcmsosnSGjJgTM,Wolfgang Amadeus Mozart,"Mozart: Don Giovanni, K. 527, Act 1: ""Batti, batti, o bel Masetto"" (Zerlina)",0.0,0.0,0.0,0.0,0.0
 4h0gbDWSsaOGW1hafI1Ml8,Wolfgang Amadeus Mozart,"String Quintet No. 4 in G Minor, K. 516: IV. Adagio - Allegro",0.248,0.0304,-23.738,0.0387,82.779
 4qL3AlJhFttSW8ivCHZ7A2,Wolfgang Amadeus Mozart,"Coronation Mass in C Major, K. 317: II. Gloria",0.324,0.226,-17.772,0.165,125.054
 4svql2Zc9wpmbPYJ8YnJEy,Wolfgang Amadeus Mozart,"Symphony No. 40 in G Minor, K. 550: IV. Finale, Allegro Assai",0.34,0.202,-19.373,0.408,132.855
-4szAq10h5xXU9n3ogDcpbv,Wolfgang Amadeus Mozart,"Violin Sonata No. 26 in B-Flat Major, K. 378: II. Andantino sostenuto e cantabile",None,None,None,None,None
+4szAq10h5xXU9n3ogDcpbv,Wolfgang Amadeus Mozart,"Violin Sonata No. 26 in B-Flat Major, K. 378: II. Andantino sostenuto e cantabile",0.0,0.0,0.0,0.0,0.0
 4um2kXoRo6gDtK7mpFN3Wp,Wolfgang Amadeus Mozart,"Violin Concerto No. 3 in G Major, K. 216: II. Adagio",0.163,0.0553,-23.022,0.184,175.738
 4wID6K8N52Y1FR8b2Wtcqj,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: III. Sequenz, No. 6, Lacrymosa",0.174,0.2,-14.482,0.0398,95.555
 4xHSfEliWvIKAUJAG0rET9,Wolfgang Amadeus Mozart,"Violin Concerto No. 3 in G Major, K. 216: II. Adagio",0.138,0.0389,-26.704,0.0671,167.987
-4yIjV1J48y73HniSjuxCtR,Wolfgang Amadeus Mozart,"Violin Concerto No. 4 in D Major, K. 218: I. Allegro",None,None,None,None,None
+4yIjV1J48y73HniSjuxCtR,Wolfgang Amadeus Mozart,"Violin Concerto No. 4 in D Major, K. 218: I. Allegro",0.0,0.0,0.0,0.0,0.0
 4yMmDhySRyK93M1izZ75bn,Wolfgang Amadeus Mozart,"Coronation Mass in C Major, K. 317: IV. Sanctus",0.255,0.202,-18.134,0.211,81.424
 4zIRoLWtB6lYByqZ7CxpYe,Wolfgang Amadeus Mozart,"Clarinet Concerto in A Major, K. 622: II. Adagio",0.0834,0.0296,-23.829,0.0638,71.517
 4zYWsjlPvkTZwZaaL8XlB6,Wolfgang Amadeus Mozart,"Clarinet Concerto in A Major, K. 622: II. Adagio",0.0889,0.0257,-23.343,0.0404,83.192
-50GGQKnA2gyF5bkchq3HzD,Wolfgang Amadeus Mozart,"Serenade No. 9 in D Major, K. 320 ""Posthorn"": III. Concertante (Andante grazioso)",None,None,None,None,None
+50GGQKnA2gyF5bkchq3HzD,Wolfgang Amadeus Mozart,"Serenade No. 9 in D Major, K. 320 ""Posthorn"": III. Concertante (Andante grazioso)",0.0,0.0,0.0,0.0,0.0
 57zPx8kyqzve1TwZK9s685,Wolfgang Amadeus Mozart,"Flute Concerto No. 2 in D Major, K. 314: I. Allegro aperto",0.401,0.136,-19.397,0.409,123.244
 5AMPAGHERaCDB6HWXcPObt,Wolfgang Amadeus Mozart,"Der Hölle Rache - from Die Zauberflöte, KV 620",0.434,0.186,-14.191,0.605,140.723
 5BzPdQZoFdAgIXKgSXybT2,Wolfgang Amadeus Mozart,"Flute Concerto No. 1 in G Major, K. 313: III. Rondo (Tempo de menuetto)",0.397,0.133,-18.913,0.514,122.123
-5CWIVFoTVLiRiJoXEJCyRZ,Wolfgang Amadeus Mozart,"String Quartet No. 19 in C Major, K. 465: I. Adagio - Allegro",None,None,None,None,None
-5CmZm7MTPgRNl7URm5MGMv,Wolfgang Amadeus Mozart,"Flute and Harp Concerto in C Major, K. 299: II. Andantino",None,None,None,None,None
+5CWIVFoTVLiRiJoXEJCyRZ,Wolfgang Amadeus Mozart,"String Quartet No. 19 in C Major, K. 465: I. Adagio - Allegro",0.0,0.0,0.0,0.0,0.0
+5CmZm7MTPgRNl7URm5MGMv,Wolfgang Amadeus Mozart,"Flute and Harp Concerto in C Major, K. 299: II. Andantino",0.0,0.0,0.0,0.0,0.0
 5DneOSQbKsYeOu3uAq9WZ8,Wolfgang Amadeus Mozart,"Sonata for Two Pianos in D Major, K. 448: I. Allegro con spirito",0.296,0.16,-23.077,0.489,138.413
 5FoKtJ9JMIVTzba4EGGbbL,Wolfgang Amadeus Mozart,"Flute Quartet No. 1 in D Major, K. 285: III. Rondo",0.433,0.152,-17.613,0.71,131.449
 5FzNSzsP7aJQFKAK6Ha6Z6,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante",0.172,0.105,-20.553,0.103,176.597
-5GM7VbNHih3XtKmea0HA4X,Wolfgang Amadeus Mozart,"Clarinet Quintet in A Major, K. 581: IV. Allegretto con variazioni",None,None,None,None,None
+5GM7VbNHih3XtKmea0HA4X,Wolfgang Amadeus Mozart,"Clarinet Quintet in A Major, K. 581: IV. Allegretto con variazioni",0.0,0.0,0.0,0.0,0.0
 5HOYvC0Wexs75Qqo1h3HxX,Wolfgang Amadeus Mozart,"Fantasy in F Minor, K. 608 ""Organ Piece for a Clock""",0.0843,0.145,-17.394,0.0733,73.47
 5IfBIfk3jsjTBxUo093WFG,Wolfgang Amadeus Mozart,"Horn Concerto No. 3 in E-Flat Major, K. 447: II. Romance (Larghetto)",0.272,0.0226,-23.502,0.118,73.447
-5Nmw840CtUGssWHmk0jWHU,Wolfgang Amadeus Mozart,"Violin Concerto No. 2 in D Major, K. 211: II. Andante",None,None,None,None,None
+5Nmw840CtUGssWHmk0jWHU,Wolfgang Amadeus Mozart,"Violin Concerto No. 2 in D Major, K. 211: II. Andante",0.0,0.0,0.0,0.0,0.0
 5QnIDOJ1WSIeqKdCrGy6oP,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492: Overture",0.396,0.126,-17.697,0.192,73.426
 5TOPViPEThJTeyV64vwaZK,Wolfgang Amadeus Mozart,"Flute Concerto No. 1 in G Major, K. 313: II. Adagio non troppo",0.199,0.0781,-24.231,0.124,89.217

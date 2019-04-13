@@ -49,6 +49,11 @@ Artist ID,Artist Name,Genres
 0cGUm45nv7Z6M6qdXYQGTX,Kehlani,"['dance pop', 'pop', 'post-teen pop', 'r&b']"
 66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"['dance pop', 'pop', 'post-teen pop']"
 6LuN9FCkKOj5PcnpouEgny,Khalid,['pop']
+66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"['dance pop', 'pop', 'post-teen pop']"
+6LuN9FCkKOj5PcnpouEgny,Khalid,['pop']
+6LuN9FCkKOj5PcnpouEgny,Khalid,['pop']
+6LuN9FCkKOj5PcnpouEgny,Khalid,['pop']
+6LuN9FCkKOj5PcnpouEgny,Khalid,['pop']
 4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,"['atl hip hop', 'pop', 'pop rap', 'rap', 'trap music']"
 4xRYI6VqpkE3UwrDrAZL8L,Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']"
 6LuN9FCkKOj5PcnpouEgny,Khalid,['pop']
@@ -77,9 +82,11 @@ Artist ID,Artist Name,Genres
 0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,['vapor trap']
 5IcR3N7QB1j6KBL8eImZ8m,ScHoolboy Q,"['gangster rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music', 'underground hip hop']"
 6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,['electropop']
+66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"['dance pop', 'pop', 'post-teen pop']"
 1KCSPY1glIKqW2TotWuXOR,P!nk,"['dance pop', 'pop', 'post-teen pop']"
 1RyvyyTE3xzB2ZywiAwp0i,Future,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
 246dkjvS1zLTtiykXe5h60,Post Malone,"['pop', 'rap']"
+6LuN9FCkKOj5PcnpouEgny,Khalid,['pop']
 4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,['chicago rap']
 66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"['dance pop', 'pop', 'post-teen pop']"
 4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,['chicago rap']
@@ -92,13 +99,6 @@ Artist ID,Artist Name,Genres
 2hlmm7s2ICUX0LVIhVFlZQ,Gunna,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap music']"
 6Ha4aES39QiVjR0L2lwuwq,Yo Gotti,"['dirty south rap', 'gangster rap', 'hip hop', 'memphis hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
 1r4hJ1h58CWwUQe3MxPuau,Maluma,['reggaeton']
-15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,"['emo rap', 'miami hip hop']"
-7d3WFRME3vBY2cgoP38RDo,Lil Skies,['trap music']
-7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,"['boy band', 'dance pop', 'pop', 'post-teen pop']"
-3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']"
-4r63FhuTkUYltbVAg5TQnk,DaBaby,"['nc hip hop', 'rap', 'southern hip hop', 'trap music', 'vapor trap']"
-4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,['chicago rap']
-4npEfmQ6YuiwW1GpUmaq3F,Ava Max,"['dance pop', 'pop']"
 15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,"['emo rap', 'miami hip hop']"
 7d3WFRME3vBY2cgoP38RDo,Lil Skies,['trap music']
 7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,"['boy band', 'dance pop', 'pop', 'post-teen pop']"
