@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<!-- Insert title here -->
+  <title>Tempo Analysis</title>
+
+  <!-- reset css -->
+  <link rel="stylesheet" href="reset.css">
+  <!-- Bring in our bootstrap stylesheet -->
+  <link rel="stylesheet" 
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <!-- A black horizontal navbar that becomes vertical on small screens -->
+  <nav class="navbar navbar-expand-sm navbar-dark">
+    <a class="nav-link" href="index.html">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" 
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button> 
+    </a>
+    <ul class="navbar-nav">
+      <!-- Home button -->
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">  
+        Spotify Analysis</a>
+      </li>
+    </ul>
+
+    <!-- right side of navbar -->
+    <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown ml-auto">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" id="navbarDropdownMenuLink" href="#" role="button" 
+              aria-haspopup="true" aria-expanded="false">Plot</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="danceability.html">Danceability</a>
+                    <a class="dropdown-item" href="energy.html">Energy</a>
+                    <a class="dropdown-item" href="valence.html">Valence</a>
+                    <a class="dropdown-item" href="loudness.html">Loudness</a>
+                    <a class="dropdown-item" href="tempo.html">Tempo </a>
+                    <a class="dropdown-item" href="top_tracks.html">Top Tracks </a>
+                </div>
+        </li> 
+        <li class="nav-item">
+            <a class="nav-link" href="data_references.html">Data References
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="data.html">Contact</a>
+        </li>
+    </ul>
+  </nav>
+
+  <!-- Main Content -->
+  <div style="background-color:rgb(9, 112, 196);">
+    <div class='row'>
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+            </br>
+            </br>
+        </div>
+        <div class="col-md-4">
+        </div>
+    </div>
+  </div> <!-- ends background color -->
+
+    <!-- Header -->
+    <div class='row align-items-center'>
+        <div class="col-md-4">
+            </br>
+            </br>
+        </div>
+        <div class="col-lg-4">
+            <h2 class="intro">Tempo Analysis</h2>
+            </br>
+            </br>
+        </div>
+        <div class="col-md-4">
+            </br>
+            </br>
+        </div>
+    </div> 
+    
+    <div class="row">
+        <div class="col-lg-6">
+            </br>
+            <a target="_blank" href="https://raw.githubusercontent.com/eric-ruzzo/spotify_popularity_analysis/master/Project%202/Images/tempo.png">
+                <img src="https://raw.githubusercontent.com/eric-ruzzo/spotify_popularity_analysis/master/Project%202/Images/tempo.png"
+                alt = "Tempo" height="400" width="600">
+            </a>
+        </div>
+        <div class="col-lg-6">
+                <p class="description"> We did not find a relationship between the tempo (measured in beats per minute) of a track and its popularity. While there are very few songs with tempo below 70 BPM, the plot points above 70 BPM are evenly spread out in regards to popularity.
+                    
+                </p>
+        </div>
+    </div>
+
+
+
+    <!-- Visualizations -->
+        <!-- Header -->
+        <div id = "bottom_visual_page" class="container"> 
+          <div class="row">
+              <div class="col-md-12">
+                  </br> <!-- line break to push header down -->
+              </div>
+          </div>
+          <hr> <!-- horizontal line -->
+
+        <!-- Header content for visualization section -->
+        <div id = "bottom_visual_page" class="container"> 
+                <div class="row align-items-center">
+                    <div class = 'col-md-4'></br></br></br></div>
+                    <div class="col-lg-4">
+                        <h3 id="bot_header">Visualizations</h3>
+                    </div>
+                    <div class = 'col-md-4'></br></br></br></div>
+                </div>
+        
+                <div class="row align-items-center">
+                  <div class="col-lg-3">
+                      <a href="danceability.html">
+                          <img src="https://raw.githubusercontent.com/eric-ruzzo/spotify_popularity_analysis/master/Project%202/Images/danceability.png"
+                          alt = "danceability" height="225" width="300">
+                      </a>
+                  </div>
+                  <div class="col-lg-3">
+                      <a href="energy.html">
+                          <img src="https://raw.githubusercontent.com/eric-ruzzo/spotify_popularity_analysis/master/Project%202/Images/energy.png"
+                          alt = "energy" height="225" width="300">
+                      </a>
+                  </div>
+                  <div class="col-lg-3">
+                      <a href="valence.html">
+                          <img src="https://raw.githubusercontent.com/eric-ruzzo/spotify_popularity_analysis/master/Project%202/Images/valence.png"
+                          alt = "valence" height="225" width="300">
+                      </a>
+                  </div>
+                  <div class="col-lg-3">
+                      <a href="loudness.html">
+                          <img src="https://raw.githubusercontent.com/eric-ruzzo/spotify_popularity_analysis/master/Project%202/Images/loudness.png"
+                          alt = "loudness" height="225" width="300">
+                      </a>
+                  </div>
+              </div>
+          
+            <!-- reference to github and my github page -->
+          <div class="text-left">
+                  <p>
+                  <a target="_blank" href="https://github.com/eric-ruzzo/spotify_popularity_analysis">
+                  Visit our Project on Github.
+                  </a> &emsp;
+                  </p> 
+            </div>
+                  <hr>
+    </div>
+
+</body>
+</html>

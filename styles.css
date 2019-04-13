@@ -1,0 +1,121 @@
+/* Navbar section */
+.navbar-dark{
+    background:rgb(9,112, 196);
+   
+}
+
+#index {
+    font-size: 18px;
+}
+
+#index nav{
+    font-size:22px;
+}
+
+/* Here we define some styles that will ONLY be applied at screen sizes below certain pixels */
+@media (max-width: 900px) {
+    .navbar-dark{
+        background: rgb(9, 112, 196);
+    }
+
+    .navbar-toggler{
+        background: rgb(9, 125, 202);
+
+    }
+
+    #bottom_visual_page{
+        position:relative;
+        bottom:-1000px;
+        left: 0;
+    }
+
+    /* comparisons_pg figure captions */
+    figcaption.caption {
+        right:1000px;
+        font-size: 24px;
+        color: rgb(9, 112, 196);
+        font-weight: bold;
+    }
+}
+
+
+/* End navbar section */
+
+h1.intro{
+    position:absolute;
+    top: 10%;
+    text-align: center;
+}
+
+#intro {
+    position:absolute;
+    top: 10%;
+    text-align: center;
+}
+
+/* header (first row) under nav bar */
+#header {
+    position:absolute;
+    top:10%;
+    text-align: right;
+}
+
+p.description {
+    position:relative;
+    top: 5%;
+    text-align: left;
+    font-size: 18px;
+    margin: 10%;
+}
+
+/* comparisons_pg figure captions */
+figcaption.caption {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(9, 112, 196);
+    font-weight: bold;
+}
+/* intro note in comparisons_pg */
+#comp_note{
+    left:10%;
+}
+
+/* in Data_pg??? May be unnecessary. */
+#CityData {
+    position:absolute;
+    top: 20%;
+    left:25%;
+}
+
+/* bottom header (visualization section) */
+#bot_header{
+    position:absolute;
+    top: 20%;
+    left:26%;
+    text-align: right;
+}
+
+#bottom_visual {
+    position:absolute;
+    bottom: -150;
+    right: 15%;
+}
+
+#bottom_visual_page{
+    position:relative;
+    width: 100%;
+    bottom: 5px;
+}
+
+#bottom_space_data_pg{
+    position: relative;
+    width: 100%;
+    bottom: 5px;
+    background:rgb(255, 255, 255);
+}
+
+.play-btn
+{
+    width: 50px;
+    margin:5px;
+}
